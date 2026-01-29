@@ -1,0 +1,2 @@
+1. Realizar un script denominado mitades.sh, el primer y unico parametro es el nombre de un directorio que tiene que existir, hay que hacer el control de numero de parametros de entrada, el programa avisa y termina si no es uno, si el directorio no existe, si el directorio no es un directorio y si el directorio que pasamos por parametro no tiene ningun fichero que comience por una letra mayuscula.
+Para cada fichero del directorio que comience por una letra mayuscula, se generara otro fichero del mismo nombre con extension .swap
