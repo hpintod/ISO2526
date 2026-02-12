@@ -37,3 +37,5 @@ echo ""
 echo "Total: $cont usuarios"
 echo ""
 echo "======================================================="
+
+echo "$(date +%d-%m-%Y) - $(date +%H:%M) - El usuario $USER ha solicitado un informe de usuarios" >> /tmp/logeventos
