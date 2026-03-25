@@ -1,0 +1,10 @@
+/etc/passwd
+/etc/group
+/etc/crontab
+/home/alumno/Vídeos/
+/home/alumno/Escritorio
+/et
+/media
+/home/alumno/Documentos
+/home/alumno/Plantillas
+/home/alumno/prueba.txt
